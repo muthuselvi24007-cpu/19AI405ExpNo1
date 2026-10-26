@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Muthu selvi R N</h3>
+<h3>Register Number: 212225240094</h3>
 
 
 <h3>AIM:</h3>
@@ -41,7 +41,6 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 <h3>PROGRAM:</h3>
-```
 class Thing:  
     """ 
     This represents any physical object that can appear in an Environment. """ 
@@ -281,8 +280,8 @@ if   __name__ == "__main__":
         print(environment.status) 
         print("AgentLocation : {0}".format(agent.location))  
         print("Performance : {0}".format(agent.performance)) 
-    ```
-  <h3>OUTPUT:</h3>
-  <img width="632" height="312" alt="image" src="https://github.com/user-attachments/assets/caaecc94-c9f1-446b-aec1-0eb5e65f2c42" />
- <h3>RESULT:</h3>
+
+<h3>OUTPUT:</h3>
+<img width="632" height="312" alt="image" src="https://github.com/user-attachments/assets/c591d7ab-ea65-4aeb-87b2-572506000dd1" />
+<h3>RESULT:</h3>
  Thus the developing AI Agent with PEAS Description was implemented using Python Programming Successfully.
